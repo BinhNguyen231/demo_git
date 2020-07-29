@@ -1,7 +1,0 @@
-hello github
-hello github
-hello github
-branch B1
-branch B1
-branch B2
-branch B3
